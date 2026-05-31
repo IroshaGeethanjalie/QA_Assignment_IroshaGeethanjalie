@@ -81,7 +81,7 @@ Install the following before running the project:
 ## 1. Clone Repository
 
 ```bash id="5hqv4y"
-git clone <[your-github-repository-link](https://github.com/IroshaGeethanjalie/QA_Assignment_IroshaGeethanjalie/tree/master)>
+git clone <(https://github.com/IroshaGeethanjalie/QA_Assignment_IroshaGeethanjalie/tree/master)>
 ```
 
 ---
